@@ -7,7 +7,8 @@ This project is a Power BI dashboard developed to explore and visualize music st
 ## 📊 Dashboard Preview
 
 ### 🔹 Overview: Albums, Artists & Tracks
-![Spotify Dashboard Overview](images/overview-dashboard.png)
+![Dashboard](https://github.com/user-attachments/assets/ad0d4b19-e5a5-4845-ac9b-c119b81a047d)
+
 
 This dashboard presents:
 - **Play trends over time** (2020–2024)
@@ -19,7 +20,9 @@ This dashboard presents:
 ---
 
 ### 🔹 Audio Feature Analysis + Listening Behavior by Hour
-![Spotify Audio Analysis](images/audio-analysis-dashboard.png)
+![Audio Features ](https://github.com/user-attachments/assets/831fc4c8-dcce-4513-93e2-731188da7b14)
+![Audio features of particular track ](https://github.com/user-attachments/assets/31190c02-6dcf-48b9-9d6d-d06275d8d0de)
+
 
 This second dashboard focuses on:
 - **Audio features** like Danceability, Energy, Speechiness, Acousticness, and Liveness
@@ -51,13 +54,6 @@ This second dashboard focuses on:
 
 ---
 
-## 🗂️ Project Files
-
-- `images/`: Contains all dashboard screenshots
-- `dataset/`: Sample data (if sharable or simulated)
-- `README.md`: Documentation and case explanation
-
----
 
 ## 📌 Project Highlights
 
